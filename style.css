@@ -1,0 +1,22 @@
+p {  font-family: Georgia, 'Times New Roman', Times, serifs;
+}
+
+p{
+    color:aquamarine
+}
+
+
+#mi-parrafo{
+    color:blueviolet
+}
+
+
+body{
+
+    background-color: blue;
+}
+background{
+    color: blue;
+}
+
+p ::after { background-color: aquamarine;}
